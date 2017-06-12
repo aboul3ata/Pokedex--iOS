@@ -12,6 +12,7 @@
 		41467F3A1EEF2E2500E2FEA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41467F381EEF2E2500E2FEA5 /* Main.storyboard */; };
 		41467F3C1EEF2E2500E2FEA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41467F3B1EEF2E2500E2FEA5 /* Assets.xcassets */; };
 		41467F3F1EEF2E2500E2FEA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41467F3D1EEF2E2500E2FEA5 /* LaunchScreen.storyboard */; };
+		41537F611EEF352A002BCB6D /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 41537F601EEF352A002BCB6D /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		41467F3B1EEF2E2500E2FEA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41467F3E1EEF2E2500E2FEA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41467F401EEF2E2500E2FEA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41537F601EEF352A002BCB6D /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				41467F361EEF2E2500E2FEA5 /* ViewController.swift */,
 				41467F381EEF2E2500E2FEA5 /* Main.storyboard */,
 				41467F3B1EEF2E2500E2FEA5 /* Assets.xcassets */,
+				41537F601EEF352A002BCB6D /* pokemon.csv */,
 				41467F3D1EEF2E2500E2FEA5 /* LaunchScreen.storyboard */,
 				41467F401EEF2E2500E2FEA5 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				41467F3F1EEF2E2500E2FEA5 /* LaunchScreen.storyboard in Resources */,
 				41467F3C1EEF2E2500E2FEA5 /* Assets.xcassets in Resources */,
+				41537F611EEF352A002BCB6D /* pokemon.csv in Resources */,
 				41467F3A1EEF2E2500E2FEA5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				41467F451EEF2E2500E2FEA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
